@@ -1,0 +1,10 @@
+body {
+    background-color: #E0E0E0;
+}
+table {
+    text-align: center;
+    background-color: #5C6B7B;
+}
+table table {
+    padding: 1px;
+}
