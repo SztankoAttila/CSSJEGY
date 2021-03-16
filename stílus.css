@@ -3,10 +3,6 @@ body {
 }
 table {
     background-color: #5C6B7B;
-    border: solid 10px red;
-}
-table table {
-    padding: 1px;
 }
 #sor2, #sor3 {
     background-color: 205, 219, 235;
@@ -15,6 +11,7 @@ table table {
 }
 #alcim {
     float: left;
+    font-size: large;
 }
 #forras {
     font-size: small;
