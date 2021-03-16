@@ -4,7 +4,15 @@ body {
 table {
     text-align: center;
     background-color: #5C6B7B;
+    border: red solid 5px;
 }
 table table {
     padding: 1px;
+}
+#sor2, #sor3 {
+    background-color: 205, 219, 235;
+    height: 35px;
+}
+#alcim {
+    
 }
