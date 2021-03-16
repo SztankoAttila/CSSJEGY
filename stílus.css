@@ -2,7 +2,6 @@ body {
     background-color: #E0E0E0;
 }
 table {
-    text-align: center;
     background-color: #5C6B7B;
     border: red solid 5px;
 }
@@ -12,7 +11,16 @@ table table {
 #sor2, #sor3 {
     background-color: 205, 219, 235;
     height: 35px;
+    text-align: center;
 }
 #alcim {
-    
+    float: left;
+}
+#forras {
+    font-size: small;
+}
+#kep {
+    float: right;
+    margin-left: 5px;
+    margin-right: 5px;
 }
